@@ -1,0 +1,1 @@
+//"user-strict" // inddicates tha code is following newer version of  Javascript
